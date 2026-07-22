@@ -1,0 +1,21 @@
+Date,Region,Category,Product,Sales,Profit,Units,Segment
+2024-01-15,North America,Technology,Enterprise Laptops,45000,12000,30,Enterprise
+2024-01-18,Europe,Technology,Cloud Servers,62000,18500,20,Enterprise
+2024-01-22,Asia-Pacific,Furniture,Ergonomic Chairs,15000,4200,50,Consumer
+2024-02-05,North America,Office Supplies,Smart Notebooks,8500,2800,120,Consumer
+2024-02-12,Latin America,Technology,Enterprise Laptops,32000,8000,22,SMB
+2024-02-20,Europe,Furniture,Executive Desks,28000,9100,15,Enterprise
+2024-03-01,Asia-Pacific,Technology,Cloud Servers,75000,22000,25,Enterprise
+2024-03-10,North America,Furniture,Ergonomic Chairs,21000,5800,70,SMB
+2024-03-15,Europe,Office Supplies,Smart Notebooks,14000,4900,200,Consumer
+2024-03-28,Latin America,Furniture,Executive Desks,19000,6000,10,Consumer
+2024-04-04,North America,Technology,Cloud Servers,88000,27000,30,Enterprise
+2024-04-14,Asia-Pacific,Office Supplies,Smart Notebooks,11500,3800,160,SMB
+2024-04-22,Europe,Technology,Enterprise Laptops,54000,14500,36,Enterprise
+2024-05-02,Latin America,Technology,Cloud Servers,41000,11200,14,SMB
+2024-05-11,North America,Furniture,Executive Desks,34000,11000,18,Enterprise
+2024-05-19,Asia-Pacific,Technology,Enterprise Laptops,49000,13200,32,Consumer
+2024-06-01,Europe,Furniture,Ergonomic Chairs,26000,7400,85,SMB
+2024-06-15,North America,Office Supplies,Smart Notebooks,16500,5500,230,Enterprise
+2024-06-25,Latin America,Office Supplies,Smart Notebooks,9800,3100,140,Consumer
+2024-07-05,Asia-Pacific,Furniture,Executive Desks,31000,10100,16,Enterprise
