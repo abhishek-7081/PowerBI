@@ -55,7 +55,7 @@ export default function DaxPlayground({ onEvaluateDax }) {
 
   return (
     <div className="dax-container">
-      
+
       {/* Sidebar presets */}
       <div className="dax-sidebar">
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', fontWeight: 600, fontSize: '0.9rem', color: 'var(--pbi-text)' }}>
@@ -81,7 +81,7 @@ export default function DaxPlayground({ onEvaluateDax }) {
 
       {/* Editor & Results */}
       <div className="dax-editor-panel">
-        
+
         <div className="dax-editor-box">
           <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '0.75rem' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', fontSize: '0.825rem', color: 'var(--pbi-text-secondary)' }}>

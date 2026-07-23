@@ -183,7 +183,7 @@ export default function App() {
 
     const link = document.createElement('a');
     link.setAttribute('href', csvContent);
-    link.setAttribute('download', `PowerBI_Sales_Report_${new Date().toISOString().substring(0,10)}.csv`);
+    link.setAttribute('download', `PowerBI_Sales_Report_${new Date().toISOString().substring(0, 10)}.csv`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
