@@ -13,6 +13,7 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json());
 
+// for csv file reading
 // Helper function to read and parse CSV
 function getSalesData() {
   const filePath = path.join(__dirname, 'data', 'sales_analytics.csv');
@@ -36,6 +37,7 @@ function getSalesData() {
     return obj;
   });
 }
+
 
 // Get raw sales transactions with optional query filters
 app.get('/api/sales', (req, res) => {
@@ -172,6 +174,7 @@ app.post('/api/dax/evaluate', (req, res) => {
   }
 });
 
+// Start the server
 app.listen(PORT, () => {
   console.log(`⚡ Power BI Backend Server running on http://localhost:${PORT}`);
 });
